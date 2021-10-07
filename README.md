@@ -1,4 +1,5 @@
-### Olá! Me chamo Giovane Ferrei- 🔭 Hoje trabalho com suporte técnico
+### Olá! Me chamo Giovane Ferreira
+- 🔭 Hoje trabalho com suporte técnico
 - 🌱 Estudante de S.I 
 - 📫 Contate-me no email: giovane_16silva@hotmail.com
   ##
