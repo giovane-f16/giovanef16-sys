@@ -1,6 +1,6 @@
 ### Olá! Me chamo Giovane Ferreira
 - 🔭 Atualmente trabalho com suporte técnico
-- 🎒 Estudante de S.I 
+- 🎒 Estudante de S.I 3/4
 - 📫 Contate-me no email: giovane_16silva@hotmail.com
   ##
 <div align="center">
