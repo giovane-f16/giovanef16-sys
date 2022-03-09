@@ -5,8 +5,8 @@
   ##
 <div align="center">
   <a href="https://www.linkedin.com/in/giovane-ferreira-da-silva-634782161/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=giovanef16-sys&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,contribs"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanef16-sys&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=giovanef16-sys&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanef16-sys&layout=compact&langs_count=7&theme=radical"/>
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Gio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
