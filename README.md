@@ -1,6 +1,6 @@
 ### Olá! Me chamo Giovane Ferreira
 - 🔭 Atualmente trabalho com suporte técnico
-- 🎒 Estudante de S.I 4/4
+- 🎒 Estudante de S.I 7/8
 <tr>
   <table width="100%">
   <tr>
