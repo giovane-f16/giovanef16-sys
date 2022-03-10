@@ -38,7 +38,7 @@
   <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=giovanef16-sys&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="giovanef16-sys" /></p>
   </td>
   <tr>
-  <td colspan = 2><br><p align = "center"> Atualmente estou aprendendo </p></td>
+  <td colspan = 2><br><p align = "center"> Estou aprendendo </p></td>
   <tr>
   <td colspan=2 width ="50%">
   <br>
