@@ -43,7 +43,7 @@
   <br>
   <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="linux" width="50" height="50"/>
   </p>
   </table>
 
